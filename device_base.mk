@@ -87,8 +87,7 @@ PRODUCT_PACKAGES := \
     hcitool \
     bttest \
     com.android.future.usb.accessory \
-    whisperd \
-    Torch
+    whisperd
 
 PRODUCT_CHARACTERISTICS := tablet
 
