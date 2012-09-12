@@ -91,3 +91,5 @@ TARGET_BOARD_INFO_FILE ?= device/moto/wingray/board-info.txt
 
 TARGET_NO_RADIOIMAGE := true
 TARGET_NO_BOOTLOADER := true
+
+BOARD_HAS_NO_SELECT_BUTTON := true
